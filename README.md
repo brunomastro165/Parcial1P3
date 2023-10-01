@@ -15,4 +15,5 @@ Prototipo de API usando SpringBoot
 ![image](https://github.com/brunomastro165/Parcial1P3/assets/127962081/69276b78-3426-4a02-ac27-d6a1e58ddf76)
 
 *Se puede acceder a Swagger y probar todos los métodos de la api con el siguiente link*
+
 http://localhost:8080/swagger-ui/index.html
