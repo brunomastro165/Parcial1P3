@@ -6,9 +6,10 @@ Este repositorio contiene un prototipo de una API REST construida utilizando Spr
 
 ### Creación de la base de datos SQL
 
-Se ha implementado una base de datos SQL para respaldar la funcionalidad de la API.
+Se ha implementado una base de datos formato SQL en H2 para respaldar la funcionalidad de la API.
 
-![Esquema de la Base de Datos](https://github.com/brunomastro165/Parcial1P3/assets/127962081/ec0699e8-1e7a-4456-b2a1-7ac2b918908c)
+![image](https://github.com/brunomastro165/Parcial1P3/assets/127962081/2d6a5ba0-cd52-4b51-b028-e56ca42c22de)
+
 
 ### Prueba de métodos propios de la API usando Swagger (Ejemplos)
 
